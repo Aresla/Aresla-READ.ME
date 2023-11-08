@@ -37,3 +37,5 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aresla)](https://github.com/aresla/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aresla)](https://git.io/streak-stats)
+
