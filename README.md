@@ -3,8 +3,6 @@
   I am a full-stack web development student (.NET & React) atHelsinki Business College, with a background in microelectronics field.
 </p>
 <p dir="auto">🌱 Currently I'm looking for an internship that will start in March 2024 and last for 5 month.</p>
-<br/>
-
 <h2>💻 Tech Stack:</h2>
 <div style="display:flex; gap:1rem">
 <a href="https://reactjs.org/" rel="nofollow">
@@ -42,6 +40,3 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aresla)](https://github.com/aresla/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aresla)](https://git.io/streak-stats)
-
