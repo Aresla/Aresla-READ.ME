@@ -2,7 +2,7 @@
 <p dir="auto">
   🌱 I am a full-stack web development student (.NET & React) atHelsinki Business College, with a background in microelectronics field.</p>
 <p dir="auto">  
- Currently I'm looking for **AN INTERNSHIP** that will start in March 2024 and last for 5 month.</p>
+ Currently I'm looking for AN INTERNSHIP that will start in March 2024 and last for 5 month.</p>
 <h2>💻 Tech Stack:</h2>
 <div style="display:flex; gap:1rem">
 <a href="https://reactjs.org/" rel="nofollow">
