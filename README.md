@@ -1,6 +1,6 @@
 <h2>💫 About Me:</h2>
 <p dir="auto">
-  🌱 I am a full-stack web development student (.NET & React) atHelsinki Business College, with a background in microelectronics field.</p>
+  🌱 I am a full-stack web development student (.NET & React) at Helsinki Business College, with a background in microelectronics field.</p>
 <p dir="auto">  
  Currently I'm looking for AN INTERNSHIP that will start in March 2024 and last for 5 month.</p>
 <h2>💻 Tech Stack:</h2>
