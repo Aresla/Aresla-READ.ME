@@ -1,7 +1,7 @@
 <h2>💫 About Me:</h2>
 <p dir="auto">
-  🌱 I am a full-stack web development student (.NET & React) at Helsinki Business College, with a background in microelectronics field.</p>
-<p dir="auto">  
+  🌱 I'm a full stack web developer (.NET and React) studying at Helsinki Business College, with a background in microelectronics field.</p>
+<p dir="auto"> 
  Currently I'm looking for AN INTERNSHIP that will start in March 2024 and last for 5 month.</p>
 <h2>💻 Tech Stack:</h2>
 <div style="display:flex; gap:1rem">
@@ -60,8 +60,10 @@
 <a href="https://www.linkedin.com/in/tatiana-panteleychuk-30a758a2/" rel="nofollow" target=”_blank”>
   <img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
-<br/>
+<br/>  
 </div>
 <br/>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aresla)](https://github.com/aresla/github-readme-stats)
+<br/>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b6d892d6354df02434ab31b0647c92d8204e5d397c74845a119ff36b123b0622/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4179657368615365656d61623933267374796c653d666c61742d73717561726526636f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b6d892d6354df02434ab31b0647c92d8204e5d397c74845a119ff36b123b0622/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4179657368615365656d61623933267374796c653d666c61742d73717561726526636f6c6f723d626c7565" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Aresla&amp;style=flat-square&amp;color=blue" style="max-width: 100%;"></a>
