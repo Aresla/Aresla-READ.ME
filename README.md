@@ -66,4 +66,4 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aresla)](https://github.com/aresla/github-readme-stats)
 <br/>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b6d892d6354df02434ab31b0647c92d8204e5d397c74845a119ff36b123b0622/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4179657368615365656d61623933267374796c653d666c61742d73717561726526636f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b6d892d6354df02434ab31b0647c92d8204e5d397c74845a119ff36b123b0622/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4179657368615365656d61623933267374796c653d666c61742d73717561726526636f6c6f723d626c7565" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Aresla&amp;style=flat-square&amp;color=blue" style="max-width: 100%;"></a>
+![Github Views](https://github-views.deno.dev/api/badge/Aresla)
