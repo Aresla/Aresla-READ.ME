@@ -3,6 +3,9 @@
   🌱 I'm a full stack web developer (.NET and React) studying at Helsinki Business College, with a background in microelectronics field.</p>
 <p dir="auto"> 
  Currently I'm looking for AN INTERNSHIP that will start in March 2024 and last for 5 month.</p>
+<p>
+  This is my personal website (portfolio)  https://aresla.github.io/
+</p> 
 <h2>💻 Tech Stack:</h2>
 <div style="display:flex; gap:1rem">
 <a href="https://reactjs.org/" rel="nofollow">
