@@ -69,4 +69,3 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aresla)](https://github.com/aresla/github-readme-stats)
 <br/>
-![Github Views](https://github-views.deno.dev/api/badge/Aresla)
