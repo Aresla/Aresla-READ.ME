@@ -42,13 +42,13 @@
 <a href="https://www.figma.com/" rel="nofollow"> 
   <img <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" style="max-width: 100%;">
 </a>
-</div>
 <a href="https://expressjs.com" rel="nofollow"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="max-width: 100%;"> 
 </a>
 <a href="https://nodejs.org" rel="nofollow"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> 
 </a>
+</div>  
 <h2>🌐 Socials:</h2>
 <div style= "margin-bottom:10rem">
 <a href="https://www.linkedin.com/in/tatiana-panteleychuk-30a758a2/" rel="nofollow" target=”_blank”>
