@@ -2,7 +2,7 @@
 <p dir="auto">
   🌱 I'm a full stack web developer (.NET and React) studying at Helsinki Business College, with a background in microelectronics field.</p>
 <p dir="auto"> 
- I'm currently an intern at a great company in Helsinki.</p>
+ I'm currently an intern at one great company in Helsinki.</p>
 <p>
   This is my personal website (portfolio)  https://aresla.github.io/
 </p> 
