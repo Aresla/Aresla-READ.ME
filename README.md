@@ -1,6 +1,6 @@
 <h2>💫 About Me:</h2>
 <p dir="auto">
-  🌱 I hold a degree in Full-stackWeb Development with a focuson Frontend from BusinessCollege Helsinki.</p>
+  🌱 I hold a degree in Full-stack Web Development with a focus on Frontend from Business College Helsinki.</p>
 <p dir="auto"> I have experience in real commercial projects. References on my work are available in my LinkedIn. </p>
 <p>
   I am passionate of constantly learn and expand my skillset in Web development.
