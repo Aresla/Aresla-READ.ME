@@ -1,8 +1,10 @@
 <h2>💫 About Me:</h2>
 <p dir="auto">
-  🌱 I'm a full stack web developer (.NET and React) studying at Helsinki Business College, with a background in microelectronics field.</p>
-<p dir="auto"> 
- I'm currently an intern at one great company in Helsinki.</p>
+  🌱 I hold a degree in Full-stackWeb Development with a focuson Frontend from BusinessCollege Helsinki.</p>
+<p dir="auto"> I have experience in real commercial projects. References on my work are available in my LinkedIn. </p>
+<p>
+  I am passionate of constantly learn and expand my skillset in Web development.
+</p> 
 <p>
   This is my personal website (portfolio)  https://aresla.github.io/
 </p> 
